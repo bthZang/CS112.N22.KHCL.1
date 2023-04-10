@@ -1,0 +1,4 @@
+CMDLINE 'C:\Users\THANH DUY\AppData\Local\Programs\Python\Python310\python.exe' tests/performance.py
+MEM 1.601562 1681056825.9120
+MEM 17.972656 1681056826.0173
+MEM 20.753906 1681056826.1293
