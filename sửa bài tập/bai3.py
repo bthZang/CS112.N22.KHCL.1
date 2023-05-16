@@ -50,4 +50,3 @@ def BnB(i):
 BnB(1)
 
 print(*list(res))
-print(tmp_opt_sol)
